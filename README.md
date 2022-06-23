@@ -11,3 +11,6 @@ git remmot add origin;
 git remot -v;
 git push -u origin master;
 por último, neste trabalho, foi usado o git pull para baixar esse readme para o computador ;)
+
+
+segunda branch para o trabalho de versionamento
